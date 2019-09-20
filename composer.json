@@ -1,0 +1,11 @@
+{
+    "name": "4n70w4/php-text-words-parser",
+    "type": "library",
+    "description": "Parse html text into sentences and words on PHP.",
+    "keywords": [
+        "php"
+    ],
+    "require": {
+        "php": "*"
+    }
+}
